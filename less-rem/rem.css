@@ -1,0 +1,8 @@
+@r:50rem;
+
+
+div{
+	width: 100/@r;
+	height: 100/@r;
+	background-color: red;
+}
